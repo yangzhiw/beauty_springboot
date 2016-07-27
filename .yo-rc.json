@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "beauty_springboot",
+    "packageName": "com.juzi",
+    "packageFolder": "com/juzi",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "1d34d5f84a1ad9934df96c7fe271b822a5fba3df",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
